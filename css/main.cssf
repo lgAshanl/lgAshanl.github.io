@@ -1,0 +1,18 @@
+.header {
+    padding-top: 3.5rem;
+}
+
+.nobullets {
+    list-style: none;
+}
+
+/*.comptencies,
+.education,
+.compskills,
+.langskills {
+    font-family: 'PT Serif', serif;
+}*/
+
+.contacts li {
+    display: inline;
+}
